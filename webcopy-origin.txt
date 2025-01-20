@@ -1,0 +1,40 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js
+File Name: C:\work\Downloaded Web Sites\17.01\paperboysol\www.paperboysol.com\ajax\libs\gsap\3.12.5\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://www.paperboysol.com/
+File Name: C:\work\Downloaded Web Sites\17.01\paperboysol\www.paperboysol.com\index.htm
+Content Type: text/html
+
+Uri: https://www.paperboysol.com/apple-touch-icon.png
+File Name: C:\work\Downloaded Web Sites\17.01\paperboysol\www.paperboysol.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.paperboysol.com/favicon-16x16.png
+File Name: C:\work\Downloaded Web Sites\17.01\paperboysol\www.paperboysol.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.paperboysol.com/favicon-32x32.png
+File Name: C:\work\Downloaded Web Sites\17.01\paperboysol\www.paperboysol.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.paperboysol.com/fonts/Sawer.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\paperboysol\www.paperboysol.com\fonts\Sawer.ttf
+Content Type: font/ttf
+
+Uri: https://www.paperboysol.com/paper-boy/butt.webp
+File Name: C:\work\Downloaded Web Sites\17.01\paperboysol\www.paperboysol.com\paper-boy\butt.webp
+Content Type: image/webp
+
+Uri: https://www.paperboysol.com/site.webmanifest
+File Name: C:\work\Downloaded Web Sites\17.01\paperboysol\www.paperboysol.com\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://www.paperboysol.com/_app/immutable/assets/0.DJ_PgygS.css
+File Name: C:\work\Downloaded Web Sites\17.01\paperboysol\www.paperboysol.com\_app\immutable\assets\0.DJ_PgygS.css
+Content Type: text/css
+
+Uri: https://www.paperboysol.com/_app/immutable/assets/2.BZhr2gna.css
+File Name: C:\work\Downloaded Web Sites\17.01\paperboysol\www.paperboysol.com\_app\immutable\assets\2.BZhr2gna.css
+Content Type: text/css
+
